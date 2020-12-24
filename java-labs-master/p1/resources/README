@@ -1,0 +1,5 @@
+I want all the parts of the assigment to be corrected
+
+The configuration file of the web server is in the file config.properties which is also commented the purpouse of each entry. In order to execute the project in Netbeans you have to set the main class as WebServer.java
+and also to configure the root path of the server directory. The p1/resources/Folder was created to test the allow directive. It contains the saludo.html and the Calculate.html that perfoms a mathematical operation 
+using a java Applet.
